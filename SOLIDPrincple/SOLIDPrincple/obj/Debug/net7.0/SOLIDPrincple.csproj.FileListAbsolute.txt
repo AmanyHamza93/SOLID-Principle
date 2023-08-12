@@ -1,0 +1,15 @@
+D:\WORK\Private\SOLIDPrinciple\SOLIDPrincple\SOLIDPrincple\bin\Debug\net7.0\SOLIDPrincple.exe
+D:\WORK\Private\SOLIDPrinciple\SOLIDPrincple\SOLIDPrincple\bin\Debug\net7.0\SOLIDPrincple.deps.json
+D:\WORK\Private\SOLIDPrinciple\SOLIDPrincple\SOLIDPrincple\bin\Debug\net7.0\SOLIDPrincple.runtimeconfig.json
+D:\WORK\Private\SOLIDPrinciple\SOLIDPrincple\SOLIDPrincple\bin\Debug\net7.0\SOLIDPrincple.dll
+D:\WORK\Private\SOLIDPrinciple\SOLIDPrincple\SOLIDPrincple\bin\Debug\net7.0\SOLIDPrincple.pdb
+D:\WORK\Private\SOLIDPrinciple\SOLIDPrincple\SOLIDPrincple\obj\Debug\net7.0\SOLIDPrincple.csproj.AssemblyReference.cache
+D:\WORK\Private\SOLIDPrinciple\SOLIDPrincple\SOLIDPrincple\obj\Debug\net7.0\SOLIDPrincple.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\Private\SOLIDPrinciple\SOLIDPrincple\SOLIDPrincple\obj\Debug\net7.0\SOLIDPrincple.AssemblyInfoInputs.cache
+D:\WORK\Private\SOLIDPrinciple\SOLIDPrincple\SOLIDPrincple\obj\Debug\net7.0\SOLIDPrincple.AssemblyInfo.cs
+D:\WORK\Private\SOLIDPrinciple\SOLIDPrincple\SOLIDPrincple\obj\Debug\net7.0\SOLIDPrincple.csproj.CoreCompileInputs.cache
+D:\WORK\Private\SOLIDPrinciple\SOLIDPrincple\SOLIDPrincple\obj\Debug\net7.0\SOLIDPrincple.dll
+D:\WORK\Private\SOLIDPrinciple\SOLIDPrincple\SOLIDPrincple\obj\Debug\net7.0\refint\SOLIDPrincple.dll
+D:\WORK\Private\SOLIDPrinciple\SOLIDPrincple\SOLIDPrincple\obj\Debug\net7.0\SOLIDPrincple.pdb
+D:\WORK\Private\SOLIDPrinciple\SOLIDPrincple\SOLIDPrincple\obj\Debug\net7.0\SOLIDPrincple.genruntimeconfig.cache
+D:\WORK\Private\SOLIDPrinciple\SOLIDPrincple\SOLIDPrincple\obj\Debug\net7.0\ref\SOLIDPrincple.dll
